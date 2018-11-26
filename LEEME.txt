@@ -1,0 +1,9 @@
+Hola.
+
+Mi nombre es Edison Bernal.
+
+Deseo compartir el proceso de creación de mi página web personal.
+
+En este repositorio subiré los cambios. 
+
+Si alguna parte del código te sirve para algo. Excelente. Para eso es.
